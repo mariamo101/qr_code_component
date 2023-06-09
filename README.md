@@ -14,6 +14,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 <img width="1024" alt="Screenshot 2023-01-15 at 14 47 42" src="https://user-images.githubusercontent.com/117212859/212544692-6cc46d5d-28d2-4363-853b-ce9ba6bba404.png">
 
+### Link
+
+- Live Site URL: [Add live site URL here](https://qr-code-mm.netlify.app/)
+
+
 
 ### Built with
 
